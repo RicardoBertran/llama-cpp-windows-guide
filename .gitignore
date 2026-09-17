@@ -1,0 +1,13 @@
+# Modelos: suelen ser archivos grandes y se descargan por separado.
+*.gguf
+
+# Archivos descargados o extraidos localmente.
+*.zip
+*.7z
+*.log
+
+# Configuracion del sistema y editores.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
